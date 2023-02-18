@@ -1,4 +1,4 @@
-//Givan sn  integer.Find out sum of digit using recursion...//
+//Givan an  integer.Find out sum of digit using recursion...//
 import java.util.*;
 public class rec4 {
     static int sum(int n ){
